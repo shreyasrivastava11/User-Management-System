@@ -1,4 +1,4 @@
-# MERN Stack Developer Intern Assessment - User Management System
+# User Management System
 
 Full-stack MERN application implementing:
 - JWT authentication
@@ -101,5 +101,3 @@ Set backend env:
 - `MONGO_URI=<mongo_connection_string>`
 - `JWT_SECRET=<strong_secret>`
 - `CORS_ORIGIN=<deployed_frontend_url>`
-
-# User-Management-System
